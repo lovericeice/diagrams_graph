@@ -1,11 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T09:59:03.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="Nzq-RxWAsBGD3cJhjGmI" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-15T10:03:35.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="pNtntrVbARJ4-DcOHd2L" version="13.6.2" type="github">
   <diagram id="PGQh33GmGEEabXiE0Ceb" name="Page-1">
-    <mxGraphModel dx="576" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="640" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EsB_VxGgM87q5KJYcQod-2" value="俄耳甫斯教" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="90" width="120" height="50" as="geometry" />
+          <mxGeometry x="130" y="30" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EsB_VxGgM87q5KJYcQod-3" value="赫耳墨斯主义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="535" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EsB_VxGgM87q5KJYcQod-4" value="柏拉图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EsB_VxGgM87q5KJYcQod-5" value="轮回" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EsB_VxGgM87q5KJYcQod-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="500" as="sourcePoint" />
+            <mxPoint x="250" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EsB_VxGgM87q5KJYcQod-7" value="轮回" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EsB_VxGgM87q5KJYcQod-4" target="EsB_VxGgM87q5KJYcQod-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="320" as="sourcePoint" />
+            <mxPoint x="350" y="430" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EsB_VxGgM87q5KJYcQod-8" value="诺斯替主义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="535" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EsB_VxGgM87q5KJYcQod-11" value="轮回" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="EsB_VxGgM87q5KJYcQod-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="sourcePoint" />
+            <mxPoint x="350" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
