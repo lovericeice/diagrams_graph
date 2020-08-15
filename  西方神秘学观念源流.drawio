@@ -1,17 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T15:09:02.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="sNG6AhzDxNXnIGCV4Ty9" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-15T15:12:12.151Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="cD2iL9UNMxgoGR2a0zMM" version="13.6.2" type="github">
   <diagram id="PGQh33GmGEEabXiE0Ceb" name="Page-1">
-    <mxGraphModel dx="1733" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EsB_VxGgM87q5KJYcQod-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;轮回&lt;/font&gt;" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;exitX=0.429;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;fontColor=#CC6600;fontStyle=1" parent="1" source="N6O5T9l40N1phpzyZDKu-2" target="N6O5T9l40N1phpzyZDKu-3" edge="1">
-          <mxGeometry x="0.055" y="-22" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="EsB_VxGgM87q5KJYcQod-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;轮回&lt;/font&gt;" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=18;fontColor=#CC6600;fontStyle=1" parent="1" source="N6O5T9l40N1phpzyZDKu-2" target="N6O5T9l40N1phpzyZDKu-3" edge="1">
+          <mxGeometry x="-0.0972" y="40" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="120" as="sourcePoint" />
             <mxPoint x="167.5" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="210" />
+              <mxPoint x="520" y="220" />
+              <mxPoint x="540" y="320" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-39" y="48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EsB_VxGgM87q5KJYcQod-7" value="轮回" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;fontSize=18;exitX=0.148;exitY=1;exitDx=0;exitDy=0;fontColor=#994C00;fontStyle=1;exitPerimeter=0;" parent="1" source="N6O5T9l40N1phpzyZDKu-3" target="EsB_VxGgM87q5KJYcQod-18" edge="1">
@@ -26,15 +27,6 @@
         </mxCell>
         <mxCell id="EsB_VxGgM87q5KJYcQod-18" value="&lt;h1&gt;赫耳墨斯主义&lt;/h1&gt;&lt;div&gt;前3世纪 - 3世纪&lt;/div&gt;&lt;div&gt;希腊-埃及&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="920" width="270" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="EsB_VxGgM87q5KJYcQod-21" value="两性本&lt;br&gt;为同体&lt;br&gt;，之后&lt;br&gt;才分开&lt;br&gt;（另一半）" style="endArrow=classic;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;jumpSize=14;opacity=80;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="EsB_VxGgM87q5KJYcQod-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="370" as="sourcePoint" />
-            <mxPoint x="460" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="510" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="EsB_VxGgM87q5KJYcQod-22" value="原初力量&lt;br&gt;「爱」" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="N6O5T9l40N1phpzyZDKu-3" target="EsB_VxGgM87q5KJYcQod-18" edge="1">
           <mxGeometry x="-0.0341" y="-8" width="50" height="50" relative="1" as="geometry">
@@ -75,8 +67,8 @@
         <mxCell id="N6O5T9l40N1phpzyZDKu-15" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;双重起源&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;心灵：源自光与生命&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;肉体：源自黑暗的&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;水质物质&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;fontColor=#004C99;" parent="1" vertex="1">
           <mxGeometry x="190" y="1030" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NyYfzIQzvW2G4Te5tXXI-2" value="神圣部分：&lt;br&gt;源自狄俄尼索斯&lt;br&gt;罪的部分：&lt;br&gt;源自泰坦" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="695" y="270" width="95" height="70" as="geometry" />
+        <mxCell id="NyYfzIQzvW2G4Te5tXXI-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;神圣部分：&lt;br style=&quot;font-size: 10px&quot;&gt;源自狄俄尼索斯&lt;br style=&quot;font-size: 10px&quot;&gt;罪的部分：&lt;br style=&quot;font-size: 10px&quot;&gt;源自泰坦&lt;/font&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;opacity=60;strokeColor=#0066CC;spacing=6;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="95" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
