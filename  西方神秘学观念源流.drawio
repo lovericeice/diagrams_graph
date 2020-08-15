@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T15:12:12.151Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="cD2iL9UNMxgoGR2a0zMM" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-15T15:16:58.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="KQ-KSgvzaYnFANGtDALd" version="13.6.2" type="github">
   <diagram id="PGQh33GmGEEabXiE0Ceb" name="Page-1">
     <mxGraphModel dx="1572" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -16,16 +16,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EsB_VxGgM87q5KJYcQod-7" value="轮回" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;fontSize=18;exitX=0.148;exitY=1;exitDx=0;exitDy=0;fontColor=#994C00;fontStyle=1;exitPerimeter=0;" parent="1" source="N6O5T9l40N1phpzyZDKu-3" target="EsB_VxGgM87q5KJYcQod-18" edge="1">
-          <mxGeometry x="-0.1004" y="40" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.0398" y="64" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="470" as="sourcePoint" />
             <mxPoint x="165" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="620" />
+              <mxPoint x="340" y="650" />
             </Array>
-            <mxPoint x="-40" y="35" as="offset" />
+            <mxPoint x="-101" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsB_VxGgM87q5KJYcQod-18" value="&lt;h1&gt;赫耳墨斯主义&lt;/h1&gt;&lt;div&gt;前3世纪 - 3世纪&lt;/div&gt;&lt;div&gt;希腊-埃及&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;" parent="1" vertex="1">
+        <mxCell id="EsB_VxGgM87q5KJYcQod-18" value="&lt;h1&gt;赫耳墨斯主义&lt;/h1&gt;&lt;div&gt;前3世纪 - 3世纪&lt;/div&gt;&lt;div&gt;希腊-埃及&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=10;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="920" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="EsB_VxGgM87q5KJYcQod-22" value="原初力量&lt;br&gt;「爱」" style="endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="N6O5T9l40N1phpzyZDKu-3" target="EsB_VxGgM87q5KJYcQod-18" edge="1">
@@ -59,7 +59,7 @@
             <mxPoint x="660" y="510" as="sourcePoint" />
             <mxPoint x="474.8699999999999" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="670" />
+              <mxPoint x="510" y="650" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -68,7 +68,23 @@
           <mxGeometry x="190" y="1030" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NyYfzIQzvW2G4Te5tXXI-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;神圣部分：&lt;br style=&quot;font-size: 10px&quot;&gt;源自狄俄尼索斯&lt;br style=&quot;font-size: 10px&quot;&gt;罪的部分：&lt;br style=&quot;font-size: 10px&quot;&gt;源自泰坦&lt;/font&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;opacity=60;strokeColor=#0066CC;spacing=6;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="660" y="240" width="95" height="70" as="geometry" />
+          <mxGeometry x="667.5" y="220" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NyYfzIQzvW2G4Te5tXXI-5" value="&lt;h1&gt;新柏拉图主义&lt;/h1&gt;&lt;div&gt;前3世纪 - 3世纪&lt;/div&gt;&lt;div&gt;希腊、罗马、东方&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=9;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="629" y="920" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NyYfzIQzvW2G4Te5tXXI-9" value="&lt;h1&gt;诺斯替主义&lt;/h1&gt;&lt;div&gt;前3世纪 - 3世纪&lt;/div&gt;&lt;div&gt;希腊、罗马、东方&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=10;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="920" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NyYfzIQzvW2G4Te5tXXI-12" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;fontSize=18;exitX=0.126;exitY=1.025;exitDx=0;exitDy=0;fontColor=#994C00;fontStyle=1;exitPerimeter=0;" edge="1" parent="1" source="N6O5T9l40N1phpzyZDKu-3" target="NyYfzIQzvW2G4Te5tXXI-9">
+          <mxGeometry x="-0.0398" y="64" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.96" y="520" as="sourcePoint" />
+            <mxPoint x="267.5" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="730" />
+            </Array>
+            <mxPoint x="-101" y="32" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
